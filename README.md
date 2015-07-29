@@ -1,2 +1,3 @@
 # getFinagleThrift
 根据thrift idl生成代码
+将idl文件放入thrift文件夹中，执行mvn install可以生成对应的java代码
