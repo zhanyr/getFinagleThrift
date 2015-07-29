@@ -1,0 +1,1402 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c07acc70-34e8-4b7f-bb05-a2957d55a06c" name="Default" comment="" />
+    <ignored path="getFinagleThrift.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="getFinagleThrift" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="6.7116885">
+              <caret line="136" column="0" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlogService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/scrooge/com/blog/finagle/thrift/blogService/BlogService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#1722#1723#0" expanded="false" />
+                <element signature="e#1763#1764#0" expanded="false" />
+                <element signature="e#1829#1830#0" expanded="false" />
+                <element signature="e#1878#1879#0" expanded="false" />
+                <element signature="e#1925#1926#0" expanded="false" />
+                <element signature="e#1955#1956#0" expanded="false" />
+                <element signature="e#2203#2204#0" expanded="false" />
+                <element signature="e#2235#2236#0" expanded="false" />
+                <element signature="e#2283#2284#0" expanded="false" />
+                <element signature="e#2315#2316#0" expanded="false" />
+                <element signature="e#13638#13639#0" expanded="false" />
+                <element signature="e#13698#13699#0" expanded="false" />
+                <element signature="e#16850#16851#0" expanded="false" />
+                <element signature="e#16887#16888#0" expanded="false" />
+                <element signature="e#17118#17119#0" expanded="false" />
+                <element signature="e#17148#17149#0" expanded="false" />
+                <element signature="e#17186#17187#0" expanded="false" />
+                <element signature="e#17217#17218#0" expanded="false" />
+                <element signature="e#18325#18326#0" expanded="false" />
+                <element signature="e#18368#18369#0" expanded="false" />
+                <element signature="e#18494#18495#0" expanded="false" />
+                <element signature="e#18524#18525#0" expanded="false" />
+                <element signature="e#18671#18672#0" expanded="false" />
+                <element signature="e#18701#18702#0" expanded="false" />
+                <element signature="e#18831#18832#0" expanded="false" />
+                <element signature="e#18869#18870#0" expanded="false" />
+                <element signature="e#19007#19008#0" expanded="false" />
+                <element signature="e#19037#19038#0" expanded="false" />
+                <element signature="e#19184#19185#0" expanded="false" />
+                <element signature="e#19214#19215#0" expanded="false" />
+                <element signature="e#19344#19345#0" expanded="false" />
+                <element signature="e#19382#19383#0" expanded="false" />
+                <element signature="e#22948#22949#0" expanded="false" />
+                <element signature="e#22996#22997#0" expanded="false" />
+                <element signature="e#26645#26646#0" expanded="false" />
+                <element signature="e#26682#26683#0" expanded="false" />
+                <element signature="e#26913#26914#0" expanded="false" />
+                <element signature="e#26943#26944#0" expanded="false" />
+                <element signature="e#26981#26982#0" expanded="false" />
+                <element signature="e#27012#27013#0" expanded="false" />
+                <element signature="e#27992#27993#0" expanded="false" />
+                <element signature="e#28037#28038#0" expanded="false" />
+                <element signature="e#28074#28075#0" expanded="false" />
+                <element signature="e#28103#28104#0" expanded="false" />
+                <element signature="e#28173#28174#0" expanded="false" />
+                <element signature="e#28202#28203#0" expanded="false" />
+                <element signature="e#28384#28385#0" expanded="false" />
+                <element signature="e#28413#28414#0" expanded="false" />
+                <element signature="e#28541#28542#0" expanded="false" />
+                <element signature="e#28578#28579#0" expanded="false" />
+                <element signature="e#31077#31078#0" expanded="false" />
+                <element signature="e#31125#31126#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BooleanResult.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/scrooge/com/blog/finagle/thrift/result/BooleanResult.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+              <folding>
+                <element signature="n#!!doc" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#2522#2523#0" expanded="false" />
+                <element signature="e#2559#2560#0" expanded="false" />
+                <element signature="e#2790#2791#0" expanded="false" />
+                <element signature="e#2820#2821#0" expanded="false" />
+                <element signature="e#2858#2859#0" expanded="false" />
+                <element signature="e#2889#2890#0" expanded="false" />
+                <element signature="e#4078#4079#0" expanded="false" />
+                <element signature="e#4118#4119#0" expanded="false" />
+                <element signature="e#4268#4269#0" expanded="false" />
+                <element signature="e#4296#4297#0" expanded="false" />
+                <element signature="e#4430#4431#0" expanded="false" />
+                <element signature="e#4458#4459#0" expanded="false" />
+                <element signature="e#4584#4585#0" expanded="false" />
+                <element signature="e#4620#4621#0" expanded="false" />
+                <element signature="e#4753#4754#0" expanded="false" />
+                <element signature="e#4782#4783#0" expanded="false" />
+                <element signature="e#4945#4946#0" expanded="false" />
+                <element signature="e#4997#4998#0" expanded="false" />
+                <element signature="e#5125#5126#0" expanded="false" />
+                <element signature="e#5184#5185#0" expanded="false" />
+                <element signature="e#5232#5233#0" expanded="false" />
+                <element signature="e#5291#5292#0" expanded="false" />
+                <element signature="e#8663#8664#0" expanded="false" />
+                <element signature="e#8711#8712#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/scrooge/scrooge/com/blog/finagle/thrift/result/Result.java" />
+        <option value="$PROJECT_DIR$/src/main/resource/thrift/result.thrift" />
+        <option value="$PROJECT_DIR$/src/main/resource/thrift/blogService.thrift" />
+        <option value="$PROJECT_DIR$/src/main/java/scrooge/com/blog/finagle/thrift/result/BooleanResult.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/Library/maven/apache-maven-3.3.1" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="707" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="getFinagleThrift" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="getFinagleThrift" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="getFinagleThrift" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="getFinagleThrift" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="getFinagleThrift" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="getFinagleThrift" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="getFinagleThrift" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BlogService" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resource/thrift" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resource/thrift" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c07acc70-34e8-4b7f-bb05-a2957d55a06c" name="Default" comment="" />
+      <created>1438071954399</created>
+      <option name="number" value="Default" />
+      <updated>1438071954399</updated>
+      <workItem from="1438071955833" duration="5116000" />
+      <workItem from="1438080092974" duration="4005000" />
+      <workItem from="1438142181164" duration="628000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9749000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="707" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3284553" sideWeight="0.4838449" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3284553" sideWeight="0.51615506" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840723" sideWeight="0.49676898" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32840723" sideWeight="0.49676898" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/scrooge/com/blog/finagle/thrift/blogService/BlogService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1722#1723#0" expanded="false" />
+            <element signature="e#1763#1764#0" expanded="false" />
+            <element signature="e#1829#1830#0" expanded="false" />
+            <element signature="e#1878#1879#0" expanded="false" />
+            <element signature="e#1925#1926#0" expanded="false" />
+            <element signature="e#1955#1956#0" expanded="false" />
+            <element signature="e#2203#2204#0" expanded="false" />
+            <element signature="e#2235#2236#0" expanded="false" />
+            <element signature="e#2283#2284#0" expanded="false" />
+            <element signature="e#2315#2316#0" expanded="false" />
+            <element signature="e#13638#13639#0" expanded="false" />
+            <element signature="e#13698#13699#0" expanded="false" />
+            <element signature="e#16850#16851#0" expanded="false" />
+            <element signature="e#16887#16888#0" expanded="false" />
+            <element signature="e#17118#17119#0" expanded="false" />
+            <element signature="e#17148#17149#0" expanded="false" />
+            <element signature="e#17186#17187#0" expanded="false" />
+            <element signature="e#17217#17218#0" expanded="false" />
+            <element signature="e#18325#18326#0" expanded="false" />
+            <element signature="e#18368#18369#0" expanded="false" />
+            <element signature="e#18494#18495#0" expanded="false" />
+            <element signature="e#18524#18525#0" expanded="false" />
+            <element signature="e#18671#18672#0" expanded="false" />
+            <element signature="e#18701#18702#0" expanded="false" />
+            <element signature="e#18831#18832#0" expanded="false" />
+            <element signature="e#18869#18870#0" expanded="false" />
+            <element signature="e#19007#19008#0" expanded="false" />
+            <element signature="e#19037#19038#0" expanded="false" />
+            <element signature="e#19184#19185#0" expanded="false" />
+            <element signature="e#19214#19215#0" expanded="false" />
+            <element signature="e#19344#19345#0" expanded="false" />
+            <element signature="e#19382#19383#0" expanded="false" />
+            <element signature="e#22948#22949#0" expanded="false" />
+            <element signature="e#22996#22997#0" expanded="false" />
+            <element signature="e#26645#26646#0" expanded="false" />
+            <element signature="e#26682#26683#0" expanded="false" />
+            <element signature="e#26913#26914#0" expanded="false" />
+            <element signature="e#26943#26944#0" expanded="false" />
+            <element signature="e#26981#26982#0" expanded="false" />
+            <element signature="e#27012#27013#0" expanded="false" />
+            <element signature="e#27992#27993#0" expanded="false" />
+            <element signature="e#28037#28038#0" expanded="false" />
+            <element signature="e#28074#28075#0" expanded="false" />
+            <element signature="e#28103#28104#0" expanded="false" />
+            <element signature="e#28173#28174#0" expanded="false" />
+            <element signature="e#28202#28203#0" expanded="false" />
+            <element signature="e#28384#28385#0" expanded="false" />
+            <element signature="e#28413#28414#0" expanded="false" />
+            <element signature="e#28541#28542#0" expanded="false" />
+            <element signature="e#28578#28579#0" expanded="false" />
+            <element signature="e#31077#31078#0" expanded="false" />
+            <element signature="e#31125#31126#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/scrooge/com/blog/finagle/thrift/result/BooleanResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2522#2523#0" expanded="false" />
+            <element signature="e#2559#2560#0" expanded="false" />
+            <element signature="e#2790#2791#0" expanded="false" />
+            <element signature="e#2820#2821#0" expanded="false" />
+            <element signature="e#2858#2859#0" expanded="false" />
+            <element signature="e#2889#2890#0" expanded="false" />
+            <element signature="e#4078#4079#0" expanded="false" />
+            <element signature="e#4118#4119#0" expanded="false" />
+            <element signature="e#4268#4269#0" expanded="false" />
+            <element signature="e#4296#4297#0" expanded="false" />
+            <element signature="e#4430#4431#0" expanded="false" />
+            <element signature="e#4458#4459#0" expanded="false" />
+            <element signature="e#4584#4585#0" expanded="false" />
+            <element signature="e#4620#4621#0" expanded="false" />
+            <element signature="e#4753#4754#0" expanded="false" />
+            <element signature="e#4782#4783#0" expanded="false" />
+            <element signature="e#4945#4946#0" expanded="false" />
+            <element signature="e#4997#4998#0" expanded="false" />
+            <element signature="e#5125#5126#0" expanded="false" />
+            <element signature="e#5184#5185#0" expanded="false" />
+            <element signature="e#5232#5233#0" expanded="false" />
+            <element signature="e#5291#5292#0" expanded="false" />
+            <element signature="e#8663#8664#0" expanded="false" />
+            <element signature="e#8711#8712#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resource/thrift/blogService.thrift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resource/thrift/result.thrift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getFinagleThrift.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getFinagleThrift.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resource/thrift/result.thrift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resource/thrift/blogService.thrift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10555556">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://MAVEN/com.ustb.zhanyr:getFinagleThrift:1.0-SNAPSHOT">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MAVEN</ID>
+          <OriginalElement>com.ustb.zhanyr:getFinagleThrift:1.0-SNAPSHOT</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">com.ustb.zhanyr:getFinagleThrift:1.0-SNAPSHOT</node>
+            <node x="164.0" y="0.0">junit:junit:jar:3.8.1</node>
+            <node x="164.0" y="40.0">com.twitter:finagle-thrift_2.9.2:jar:6.12.2</node>
+            <node x="350.0" y="40.0">com.twitter:finagle-thrift_2.9.2:jar:6.12.2/com.twitter:finagle-core_2.9.2:jar:6.12.2</node>
+            <node x="531.0" y="40.0">com.twitter:finagle-thrift_2.9.2:jar:6.12.2/com.twitter:finagle-core_2.9.2:jar:6.12.2/io.netty:netty:jar:3.8.0.Final</node>
+            <node x="531.0" y="80.0">com.twitter:finagle-thrift_2.9.2:jar:6.12.2/com.twitter:finagle-core_2.9.2:jar:6.12.2/com.twitter:util-app_2.9.2:jar:6.12.1</node>
+            <node x="531.0" y="120.0">com.twitter:finagle-thrift_2.9.2:jar:6.12.2/com.twitter:finagle-core_2.9.2:jar:6.12.2/com.twitter:util-core_2.9.2:jar:6.12.1</node>
+            <node x="531.0" y="160.0">com.twitter:finagle-thrift_2.9.2:jar:6.12.2/com.twitter:finagle-core_2.9.2:jar:6.12.2/com.twitter:util-collection_2.9.2:jar:6.12.1</node>
+            <node x="725.0" y="160.0">com.twitter:finagle-thrift_2.9.2:jar:6.12.2/com.twitter:finagle-core_2.9.2:jar:6.12.2/com.twitter:util-collection_2.9.2:jar:6.12.1/javax.inject:javax.inject:jar:1</node>
+            <node x="531.0" y="200.0">com.twitter:finagle-thrift_2.9.2:jar:6.12.2/com.twitter:finagle-core_2.9.2:jar:6.12.2/com.twitter:util-hashing_2.9.2:jar:6.12.1</node>
+            <node x="531.0" y="240.0">com.twitter:finagle-thrift_2.9.2:jar:6.12.2/com.twitter:finagle-core_2.9.2:jar:6.12.2/com.twitter:util-jvm_2.9.2:jar:6.12.1</node>
+            <node x="531.0" y="280.0">com.twitter:finagle-thrift_2.9.2:jar:6.12.2/com.twitter:finagle-core_2.9.2:jar:6.12.2/com.twitter:util-logging_2.9.2:jar:6.12.1</node>
+            <node x="350.0" y="320.0">com.twitter:finagle-thrift_2.9.2:jar:6.12.2/org.scala-lang:scala-library:jar:2.9.2</node>
+            <node x="164.0" y="360.0">com.twitter:finagle-zipkin_2.9.2:jar:6.12.2</node>
+            <node x="357.0" y="360.0">com.twitter:finagle-zipkin_2.9.2:jar:6.12.2/com.twitter:util-codec_2.9.2:jar:6.12.1</node>
+            <node x="526.0" y="360.0">com.twitter:finagle-zipkin_2.9.2:jar:6.12.2/com.twitter:util-codec_2.9.2:jar:6.12.1/commons-codec:commons-codec:jar:1.5</node>
+            <node x="357.0" y="400.0">com.twitter:finagle-zipkin_2.9.2:jar:6.12.2/org.apache.thrift:libthrift:jar:0.5.0</node>
+            <node x="357.0" y="440.0">com.twitter:finagle-zipkin_2.9.2:jar:6.12.2/com.twitter:scrooge-core_2.9.2:jar:3.12.3</node>
+            <node x="164.0" y="480.0">org.apache.hadoop:hadoop-client:jar:2.4.1</node>
+            <node x="318.0" y="480.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1</node>
+            <node x="492.0" y="480.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/com.google.guava:guava:jar:11.0.2</node>
+            <node x="492.0" y="520.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/commons-cli:commons-cli:jar:1.2</node>
+            <node x="492.0" y="560.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.apache.commons:commons-math3:jar:3.1.1</node>
+            <node x="492.0" y="600.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/xmlenc:xmlenc:jar:0.52</node>
+            <node x="492.0" y="640.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/commons-httpclient:commons-httpclient:jar:3.1</node>
+            <node x="492.0" y="680.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/commons-io:commons-io:jar:2.4</node>
+            <node x="492.0" y="720.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/commons-net:commons-net:jar:3.1</node>
+            <node x="492.0" y="760.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/commons-collections:commons-collections:jar:3.2.1</node>
+            <node x="492.0" y="800.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/commons-logging:commons-logging:jar:1.1.3</node>
+            <node x="492.0" y="840.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/log4j:log4j:jar:1.2.17</node>
+            <node x="492.0" y="880.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/commons-lang:commons-lang:jar:2.6</node>
+            <node x="492.0" y="920.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/commons-configuration:commons-configuration:jar:1.6</node>
+            <node x="711.0" y="920.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/commons-configuration:commons-configuration:jar:1.6/commons-digester:commons-digester:jar:1.8</node>
+            <node x="896.0" y="920.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/commons-configuration:commons-configuration:jar:1.6/commons-digester:commons-digester:jar:1.8/commons-beanutils:commons-beanutils:jar:1.7.0</node>
+            <node x="711.0" y="960.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/commons-configuration:commons-configuration:jar:1.6/commons-beanutils:commons-beanutils-core:jar:1.8.0</node>
+            <node x="492.0" y="1000.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.slf4j:slf4j-api:jar:1.7.5</node>
+            <node x="492.0" y="1040.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.slf4j:slf4j-log4j12:jar:1.7.5</node>
+            <node x="492.0" y="1080.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.codehaus.jackson:jackson-core-asl:jar:1.8.8</node>
+            <node x="492.0" y="1120.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.codehaus.jackson:jackson-mapper-asl:jar:1.8.8</node>
+            <node x="492.0" y="1160.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.apache.avro:avro:jar:1.7.4</node>
+            <node x="583.0" y="1160.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.apache.avro:avro:jar:1.7.4/com.thoughtworks.paranamer:paranamer:jar:2.3</node>
+            <node x="583.0" y="1200.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.apache.avro:avro:jar:1.7.4/org.xerial.snappy:snappy-java:jar:1.0.4.1</node>
+            <node x="492.0" y="1240.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/com.google.protobuf:protobuf-java:jar:2.5.0</node>
+            <node x="492.0" y="1280.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.apache.hadoop:hadoop-auth:jar:2.4.1</node>
+            <node x="639.0" y="1280.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.apache.hadoop:hadoop-auth:jar:2.4.1/org.apache.httpcomponents:httpclient:jar:4.2.5</node>
+            <node x="764.0" y="1280.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.apache.hadoop:hadoop-auth:jar:2.4.1/org.apache.httpcomponents:httpclient:jar:4.2.5/org.apache.httpcomponents:httpcore:jar:4.2.4</node>
+            <node x="492.0" y="1320.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/com.google.code.findbugs:jsr305:jar:1.3.9</node>
+            <node x="492.0" y="1360.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.apache.zookeeper:zookeeper:jar:3.4.5</node>
+            <node x="492.0" y="1400.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.apache.commons:commons-compress:jar:1.4.1</node>
+            <node x="687.0" y="1400.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.apache.commons:commons-compress:jar:1.4.1/org.tukaani:xz:jar:1.0</node>
+            <node x="318.0" y="1440.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-hdfs:jar:2.4.1</node>
+            <node x="465.0" y="1440.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-hdfs:jar:2.4.1/org.mortbay.jetty:jetty-util:jar:6.1.26</node>
+            <node x="318.0" y="1480.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.4.1</node>
+            <node x="580.0" y="1480.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.4.1</node>
+            <node x="874.0" y="1480.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.4.1/org.apache.hadoop:hadoop-yarn-client:jar:2.4.1</node>
+            <node x="1063.0" y="1480.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.4.1/org.apache.hadoop:hadoop-yarn-client:jar:2.4.1/com.sun.jersey:jersey-client:jar:1.9</node>
+            <node x="874.0" y="1520.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.4.1/org.apache.hadoop:hadoop-yarn-server-common:jar:2.4.1</node>
+            <node x="580.0" y="1560.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-shuffle:jar:2.4.1</node>
+            <node x="318.0" y="1600.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-yarn-api:jar:2.4.1</node>
+            <node x="318.0" y="1640.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.4.1</node>
+            <node x="584.0" y="1640.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.4.1/org.apache.hadoop:hadoop-yarn-common:jar:2.4.1</node>
+            <node x="793.0" y="1640.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.4.1/org.apache.hadoop:hadoop-yarn-common:jar:2.4.1/javax.xml.bind:jaxb-api:jar:2.2.2</node>
+            <node x="911.0" y="1640.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.4.1/org.apache.hadoop:hadoop-yarn-common:jar:2.4.1/javax.xml.bind:jaxb-api:jar:2.2.2/javax.xml.stream:stax-api:jar:1.0-2</node>
+            <node x="911.0" y="1680.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.4.1/org.apache.hadoop:hadoop-yarn-common:jar:2.4.1/javax.xml.bind:jaxb-api:jar:2.2.2/javax.activation:activation:jar:1.1</node>
+            <node x="793.0" y="1720.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.4.1/org.apache.hadoop:hadoop-yarn-common:jar:2.4.1/javax.servlet:servlet-api:jar:2.5</node>
+            <node x="793.0" y="1760.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.4.1/org.apache.hadoop:hadoop-yarn-common:jar:2.4.1/com.sun.jersey:jersey-core:jar:1.9</node>
+            <node x="318.0" y="1800.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.4.1</node>
+            <node x="318.0" y="1840.0">org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-annotations:jar:2.4.1</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-shuffle:jar:2.4.1">
+              <point x="0.0" y="0.0" />
+              <point x="434.0" y="1575.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.4.1/org.apache.hadoop:hadoop-yarn-common:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.4.1/org.apache.hadoop:hadoop-yarn-common:jar:2.4.1/com.sun.jersey:jersey-core:jar:1.9">
+              <point x="0.0" y="0.0" />
+              <point x="673.5" y="1775.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.apache.avro:avro:jar:1.7.4">
+              <point x="0.0" y="0.0" />
+              <point x="390.0" y="1175.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/commons-configuration:commons-configuration:jar:1.6">
+              <point x="0.0" y="0.0" />
+              <point x="390.0" y="935.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.codehaus.jackson:jackson-core-asl:jar:1.8.8">
+              <point x="0.0" y="0.0" />
+              <point x="390.0" y="1095.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.apache.hadoop:hadoop-auth:jar:2.4.1">
+              <point x="0.0" y="0.0" />
+              <point x="390.0" y="1295.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.slf4j:slf4j-log4j12:jar:1.7.5">
+              <point x="0.0" y="0.0" />
+              <point x="390.0" y="1055.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.4.1/org.apache.hadoop:hadoop-yarn-client:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.4.1/org.apache.hadoop:hadoop-yarn-client:jar:2.4.1/com.sun.jersey:jersey-client:jar:1.9">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-annotations:jar:2.4.1">
+              <point x="0.0" y="0.0" />
+              <point x="226.0" y="1855.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/commons-logging:commons-logging:jar:1.1.3">
+              <point x="0.0" y="0.0" />
+              <point x="390.0" y="815.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/commons-cli:commons-cli:jar:1.2">
+              <point x="0.0" y="0.0" />
+              <point x="390.0" y="535.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.4.1/org.apache.hadoop:hadoop-yarn-common:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.4.1/org.apache.hadoop:hadoop-yarn-common:jar:2.4.1/javax.xml.bind:jaxb-api:jar:2.2.2">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-hdfs:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-hdfs:jar:2.4.1/org.mortbay.jetty:jetty-util:jar:6.1.26">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-yarn-api:jar:2.4.1">
+              <point x="0.0" y="0.0" />
+              <point x="226.0" y="1615.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.apache.avro:avro:jar:1.7.4" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.apache.avro:avro:jar:1.7.4/org.xerial.snappy:snappy-java:jar:1.0.4.1">
+              <point x="0.0" y="0.0" />
+              <point x="522.5" y="1215.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.twitter:finagle-thrift_2.9.2:jar:6.12.2/com.twitter:finagle-core_2.9.2:jar:6.12.2/com.twitter:util-collection_2.9.2:jar:6.12.1" target="com.twitter:finagle-thrift_2.9.2:jar:6.12.2/com.twitter:finagle-core_2.9.2:jar:6.12.2/com.twitter:util-collection_2.9.2:jar:6.12.1/javax.inject:javax.inject:jar:1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-hdfs:jar:2.4.1">
+              <point x="0.0" y="0.0" />
+              <point x="226.0" y="1455.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.4.1/org.apache.hadoop:hadoop-yarn-server-common:jar:2.4.1">
+              <point x="0.0" y="0.0" />
+              <point x="712.0" y="1535.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.4.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.apache.hadoop:hadoop-auth:jar:2.4.1/org.apache.httpcomponents:httpclient:jar:4.2.5" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.apache.hadoop:hadoop-auth:jar:2.4.1/org.apache.httpcomponents:httpclient:jar:4.2.5/org.apache.httpcomponents:httpcore:jar:4.2.4">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.ustb.zhanyr:getFinagleThrift:1.0-SNAPSHOT" target="com.twitter:finagle-zipkin_2.9.2:jar:6.12.2">
+              <point x="0.0" y="0.0" />
+              <point x="67.0" y="375.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.ustb.zhanyr:getFinagleThrift:1.0-SNAPSHOT" target="com.twitter:finagle-thrift_2.9.2:jar:6.12.2">
+              <point x="0.0" y="0.0" />
+              <point x="67.0" y="55.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/commons-configuration:commons-configuration:jar:1.6" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/commons-configuration:commons-configuration:jar:1.6/commons-digester:commons-digester:jar:1.8">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.twitter:finagle-thrift_2.9.2:jar:6.12.2/com.twitter:finagle-core_2.9.2:jar:6.12.2" target="com.twitter:finagle-thrift_2.9.2:jar:6.12.2/com.twitter:finagle-core_2.9.2:jar:6.12.2/io.netty:netty:jar:3.8.0.Final">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.twitter:finagle-thrift_2.9.2:jar:6.12.2/com.twitter:finagle-core_2.9.2:jar:6.12.2" target="com.twitter:finagle-thrift_2.9.2:jar:6.12.2/com.twitter:finagle-core_2.9.2:jar:6.12.2/com.twitter:util-logging_2.9.2:jar:6.12.1">
+              <point x="0.0" y="0.0" />
+              <point x="425.5" y="295.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.twitter:finagle-thrift_2.9.2:jar:6.12.2/com.twitter:finagle-core_2.9.2:jar:6.12.2" target="com.twitter:finagle-thrift_2.9.2:jar:6.12.2/com.twitter:finagle-core_2.9.2:jar:6.12.2/com.twitter:util-app_2.9.2:jar:6.12.1">
+              <point x="0.0" y="0.0" />
+              <point x="425.5" y="95.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.twitter:finagle-thrift_2.9.2:jar:6.12.2/com.twitter:finagle-core_2.9.2:jar:6.12.2" target="com.twitter:finagle-thrift_2.9.2:jar:6.12.2/com.twitter:finagle-core_2.9.2:jar:6.12.2/com.twitter:util-jvm_2.9.2:jar:6.12.1">
+              <point x="0.0" y="0.0" />
+              <point x="425.5" y="255.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.4.1/org.apache.hadoop:hadoop-yarn-client:jar:2.4.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/com.google.protobuf:protobuf-java:jar:2.5.0">
+              <point x="0.0" y="0.0" />
+              <point x="390.0" y="1255.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.apache.commons:commons-compress:jar:1.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.apache.commons:commons-compress:jar:1.4.1/org.tukaani:xz:jar:1.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.4.1/org.apache.hadoop:hadoop-yarn-common:jar:2.4.1/javax.xml.bind:jaxb-api:jar:2.2.2" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.4.1/org.apache.hadoop:hadoop-yarn-common:jar:2.4.1/javax.xml.bind:jaxb-api:jar:2.2.2/javax.activation:activation:jar:1.1">
+              <point x="0.0" y="0.0" />
+              <point x="837.0" y="1695.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.twitter:finagle-zipkin_2.9.2:jar:6.12.2/com.twitter:util-codec_2.9.2:jar:6.12.1" target="com.twitter:finagle-zipkin_2.9.2:jar:6.12.2/com.twitter:util-codec_2.9.2:jar:6.12.1/commons-codec:commons-codec:jar:1.5">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.twitter:finagle-zipkin_2.9.2:jar:6.12.2" target="com.twitter:finagle-zipkin_2.9.2:jar:6.12.2/org.apache.thrift:libthrift:jar:0.5.0">
+              <point x="0.0" y="0.0" />
+              <point x="245.5" y="415.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/commons-configuration:commons-configuration:jar:1.6" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/commons-configuration:commons-configuration:jar:1.6/commons-beanutils:commons-beanutils-core:jar:1.8.0">
+              <point x="0.0" y="0.0" />
+              <point x="586.5" y="975.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.apache.zookeeper:zookeeper:jar:3.4.5">
+              <point x="0.0" y="0.0" />
+              <point x="390.0" y="1375.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.4.1">
+              <point x="0.0" y="0.0" />
+              <point x="226.0" y="1655.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.apache.commons:commons-math3:jar:3.1.1">
+              <point x="0.0" y="0.0" />
+              <point x="390.0" y="575.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/com.google.code.findbugs:jsr305:jar:1.3.9">
+              <point x="0.0" y="0.0" />
+              <point x="390.0" y="1335.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.twitter:finagle-zipkin_2.9.2:jar:6.12.2" target="com.twitter:finagle-zipkin_2.9.2:jar:6.12.2/com.twitter:util-codec_2.9.2:jar:6.12.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/xmlenc:xmlenc:jar:0.52">
+              <point x="0.0" y="0.0" />
+              <point x="390.0" y="615.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/log4j:log4j:jar:1.2.17">
+              <point x="0.0" y="0.0" />
+              <point x="390.0" y="855.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.twitter:finagle-zipkin_2.9.2:jar:6.12.2" target="com.twitter:finagle-zipkin_2.9.2:jar:6.12.2/com.twitter:scrooge-core_2.9.2:jar:3.12.3">
+              <point x="0.0" y="0.0" />
+              <point x="245.5" y="455.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.twitter:finagle-thrift_2.9.2:jar:6.12.2" target="com.twitter:finagle-thrift_2.9.2:jar:6.12.2/org.scala-lang:scala-library:jar:2.9.2">
+              <point x="0.0" y="0.0" />
+              <point x="242.0" y="335.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.4.1/org.apache.hadoop:hadoop-yarn-common:jar:2.4.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/commons-net:commons-net:jar:3.1">
+              <point x="0.0" y="0.0" />
+              <point x="390.0" y="735.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.twitter:finagle-thrift_2.9.2:jar:6.12.2" target="com.twitter:finagle-thrift_2.9.2:jar:6.12.2/com.twitter:finagle-core_2.9.2:jar:6.12.2">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.4.1/org.apache.hadoop:hadoop-yarn-common:jar:2.4.1/javax.xml.bind:jaxb-api:jar:2.2.2" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.4.1/org.apache.hadoop:hadoop-yarn-common:jar:2.4.1/javax.xml.bind:jaxb-api:jar:2.2.2/javax.xml.stream:stax-api:jar:1.0-2">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.slf4j:slf4j-api:jar:1.7.5">
+              <point x="0.0" y="0.0" />
+              <point x="390.0" y="1015.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.4.1">
+              <point x="0.0" y="0.0" />
+              <point x="226.0" y="1815.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/com.google.guava:guava:jar:11.0.2">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.4.1/org.apache.hadoop:hadoop-yarn-common:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.4.1/org.apache.hadoop:hadoop-yarn-common:jar:2.4.1/javax.servlet:servlet-api:jar:2.5">
+              <point x="0.0" y="0.0" />
+              <point x="673.5" y="1735.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/commons-httpclient:commons-httpclient:jar:3.1">
+              <point x="0.0" y="0.0" />
+              <point x="390.0" y="655.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.twitter:finagle-thrift_2.9.2:jar:6.12.2/com.twitter:finagle-core_2.9.2:jar:6.12.2" target="com.twitter:finagle-thrift_2.9.2:jar:6.12.2/com.twitter:finagle-core_2.9.2:jar:6.12.2/com.twitter:util-core_2.9.2:jar:6.12.1">
+              <point x="0.0" y="0.0" />
+              <point x="425.5" y="135.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/commons-configuration:commons-configuration:jar:1.6/commons-digester:commons-digester:jar:1.8" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/commons-configuration:commons-configuration:jar:1.6/commons-digester:commons-digester:jar:1.8/commons-beanutils:commons-beanutils:jar:1.7.0">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.ustb.zhanyr:getFinagleThrift:1.0-SNAPSHOT" target="junit:junit:jar:3.8.1">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.apache.hadoop:hadoop-auth:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.apache.hadoop:hadoop-auth:jar:2.4.1/org.apache.httpcomponents:httpclient:jar:4.2.5">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.twitter:finagle-thrift_2.9.2:jar:6.12.2/com.twitter:finagle-core_2.9.2:jar:6.12.2" target="com.twitter:finagle-thrift_2.9.2:jar:6.12.2/com.twitter:finagle-core_2.9.2:jar:6.12.2/com.twitter:util-hashing_2.9.2:jar:6.12.1">
+              <point x="0.0" y="0.0" />
+              <point x="425.5" y="215.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.apache.commons:commons-compress:jar:1.4.1">
+              <point x="0.0" y="0.0" />
+              <point x="390.0" y="1415.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/commons-io:commons-io:jar:2.4">
+              <point x="0.0" y="0.0" />
+              <point x="390.0" y="695.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/commons-collections:commons-collections:jar:3.2.1">
+              <point x="0.0" y="0.0" />
+              <point x="390.0" y="775.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.codehaus.jackson:jackson-mapper-asl:jar:1.8.8">
+              <point x="0.0" y="0.0" />
+              <point x="390.0" y="1135.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/commons-lang:commons-lang:jar:2.6">
+              <point x="0.0" y="0.0" />
+              <point x="390.0" y="895.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.4.1">
+              <point x="0.0" y="0.0" />
+              <point x="226.0" y="1495.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.ustb.zhanyr:getFinagleThrift:1.0-SNAPSHOT" target="org.apache.hadoop:hadoop-client:jar:2.4.1">
+              <point x="0.0" y="0.0" />
+              <point x="67.0" y="495.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.apache.avro:avro:jar:1.7.4" target="org.apache.hadoop:hadoop-client:jar:2.4.1/org.apache.hadoop:hadoop-common:jar:2.4.1/org.apache.avro:avro:jar:1.7.4/com.thoughtworks.paranamer:paranamer:jar:2.3">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="com.twitter:finagle-thrift_2.9.2:jar:6.12.2/com.twitter:finagle-core_2.9.2:jar:6.12.2" target="com.twitter:finagle-thrift_2.9.2:jar:6.12.2/com.twitter:finagle-core_2.9.2:jar:6.12.2/com.twitter:util-collection_2.9.2:jar:6.12.1">
+              <point x="0.0" y="0.0" />
+              <point x="425.5" y="175.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.6208625330722758" x="375.0" y="177.0" />
+          <SelectedNodes>
+            <node>com.ustb.zhanyr:getFinagleThrift:1.0-SNAPSHOT</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>All</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/scrooge/com/blog/finagle/thrift/blogService/BlogService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1722#1723#0" expanded="false" />
+            <element signature="e#1763#1764#0" expanded="false" />
+            <element signature="e#1829#1830#0" expanded="false" />
+            <element signature="e#1878#1879#0" expanded="false" />
+            <element signature="e#1925#1926#0" expanded="false" />
+            <element signature="e#1955#1956#0" expanded="false" />
+            <element signature="e#2203#2204#0" expanded="false" />
+            <element signature="e#2235#2236#0" expanded="false" />
+            <element signature="e#2283#2284#0" expanded="false" />
+            <element signature="e#2315#2316#0" expanded="false" />
+            <element signature="e#13638#13639#0" expanded="false" />
+            <element signature="e#13698#13699#0" expanded="false" />
+            <element signature="e#16850#16851#0" expanded="false" />
+            <element signature="e#16887#16888#0" expanded="false" />
+            <element signature="e#17118#17119#0" expanded="false" />
+            <element signature="e#17148#17149#0" expanded="false" />
+            <element signature="e#17186#17187#0" expanded="false" />
+            <element signature="e#17217#17218#0" expanded="false" />
+            <element signature="e#18325#18326#0" expanded="false" />
+            <element signature="e#18368#18369#0" expanded="false" />
+            <element signature="e#18494#18495#0" expanded="false" />
+            <element signature="e#18524#18525#0" expanded="false" />
+            <element signature="e#18671#18672#0" expanded="false" />
+            <element signature="e#18701#18702#0" expanded="false" />
+            <element signature="e#18831#18832#0" expanded="false" />
+            <element signature="e#18869#18870#0" expanded="false" />
+            <element signature="e#19007#19008#0" expanded="false" />
+            <element signature="e#19037#19038#0" expanded="false" />
+            <element signature="e#19184#19185#0" expanded="false" />
+            <element signature="e#19214#19215#0" expanded="false" />
+            <element signature="e#19344#19345#0" expanded="false" />
+            <element signature="e#19382#19383#0" expanded="false" />
+            <element signature="e#22948#22949#0" expanded="false" />
+            <element signature="e#22996#22997#0" expanded="false" />
+            <element signature="e#26645#26646#0" expanded="false" />
+            <element signature="e#26682#26683#0" expanded="false" />
+            <element signature="e#26913#26914#0" expanded="false" />
+            <element signature="e#26943#26944#0" expanded="false" />
+            <element signature="e#26981#26982#0" expanded="false" />
+            <element signature="e#27012#27013#0" expanded="false" />
+            <element signature="e#27992#27993#0" expanded="false" />
+            <element signature="e#28037#28038#0" expanded="false" />
+            <element signature="e#28074#28075#0" expanded="false" />
+            <element signature="e#28103#28104#0" expanded="false" />
+            <element signature="e#28173#28174#0" expanded="false" />
+            <element signature="e#28202#28203#0" expanded="false" />
+            <element signature="e#28384#28385#0" expanded="false" />
+            <element signature="e#28413#28414#0" expanded="false" />
+            <element signature="e#28541#28542#0" expanded="false" />
+            <element signature="e#28578#28579#0" expanded="false" />
+            <element signature="e#31077#31078#0" expanded="false" />
+            <element signature="e#31125#31126#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/scrooge/com/blog/finagle/thrift/result/BooleanResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2522#2523#0" expanded="false" />
+            <element signature="e#2559#2560#0" expanded="false" />
+            <element signature="e#2790#2791#0" expanded="false" />
+            <element signature="e#2820#2821#0" expanded="false" />
+            <element signature="e#2858#2859#0" expanded="false" />
+            <element signature="e#2889#2890#0" expanded="false" />
+            <element signature="e#4078#4079#0" expanded="false" />
+            <element signature="e#4118#4119#0" expanded="false" />
+            <element signature="e#4268#4269#0" expanded="false" />
+            <element signature="e#4296#4297#0" expanded="false" />
+            <element signature="e#4430#4431#0" expanded="false" />
+            <element signature="e#4458#4459#0" expanded="false" />
+            <element signature="e#4584#4585#0" expanded="false" />
+            <element signature="e#4620#4621#0" expanded="false" />
+            <element signature="e#4753#4754#0" expanded="false" />
+            <element signature="e#4782#4783#0" expanded="false" />
+            <element signature="e#4945#4946#0" expanded="false" />
+            <element signature="e#4997#4998#0" expanded="false" />
+            <element signature="e#5125#5126#0" expanded="false" />
+            <element signature="e#5184#5185#0" expanded="false" />
+            <element signature="e#5232#5233#0" expanded="false" />
+            <element signature="e#5291#5292#0" expanded="false" />
+            <element signature="e#8663#8664#0" expanded="false" />
+            <element signature="e#8711#8712#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="6.7116885">
+          <caret line="136" column="0" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>getFinagleThrift</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.code.findbugs:jsr305:1.3.9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
